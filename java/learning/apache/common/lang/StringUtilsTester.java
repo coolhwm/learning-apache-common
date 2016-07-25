@@ -1,4 +1,4 @@
-package com.newland.apache.lang.tester;
+package learning.apache.common.lang;
 
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;
@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * org.apache.commons.lang3.StringUtils
+ * Example: org.apache.commons.lang3.StringUtils
  */
 @RunWith(BlockJUnit4ClassRunner.class)
 public class StringUtilsTester {

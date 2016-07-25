@@ -1,4 +1,4 @@
-package com.newland.apache.lang.tester;
+package learning.apache.common.lang;
 
 import org.apache.commons.lang3.ObjectUtils;
 import org.junit.Test;
@@ -8,7 +8,7 @@ import org.junit.runners.BlockJUnit4ClassRunner;
 import java.util.Date;
 
 /**
- * org.apache.commons.lang3.ObjectUtils
+ * Example: org.apache.commons.lang3.ObjectUtils
  */
 @RunWith(BlockJUnit4ClassRunner.class)
 public class ObjectUtilsTester {
